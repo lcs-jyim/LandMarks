@@ -18,6 +18,7 @@
 		BF824CA02B655AD400B86200 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF824C9F2B655AD400B86200 /* ListView.swift */; };
 		BF824CA22B655C9B00B86200 /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF824CA12B655C9B00B86200 /* ListItemView.swift */; };
 		BF824CA42B655DA900B86200 /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF824CA32B655DA900B86200 /* GalleryItemView.swift */; };
+		BF824CA62B655FE600B86200 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF824CA52B655FE600B86200 /* GalleryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		BF824C9F2B655AD400B86200 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		BF824CA12B655C9B00B86200 /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		BF824CA32B655DA900B86200 /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
+		BF824CA52B655FE600B86200 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				BF824C9F2B655AD400B86200 /* ListView.swift */,
 				BF824CA12B655C9B00B86200 /* ListItemView.swift */,
 				BF824CA32B655DA900B86200 /* GalleryItemView.swift */,
+				BF824CA52B655FE600B86200 /* GalleryView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF824CA62B655FE600B86200 /* GalleryView.swift in Sources */,
 				BF824CA42B655DA900B86200 /* GalleryItemView.swift in Sources */,
 				BF824CA22B655C9B00B86200 /* ListItemView.swift in Sources */,
 				BF824CA02B655AD400B86200 /* ListView.swift in Sources */,
